@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Assets",
+    "\\Assets\\GoogleARCore",
+    "\\Assets\\GoogleARCore\\Configurations",
+    "\\Assets\\GoogleARCore\\Examples",
+    "\\Assets\\GoogleARCore\\Examples\\HelloAR",
+    "\\Assets\\GoogleARCore\\Examples\\HelloAR\\Scripts",
+    "\\Assets\\Scripts"
+  ],
+  "SelectedNode": "\\Assets\\GoogleARCore\\Examples\\HelloAR\\Scripts\\HelloARController.cs",
+  "PreviewInSolutionExplorer": false
+}
